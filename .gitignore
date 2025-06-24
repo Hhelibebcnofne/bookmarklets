@@ -1,0 +1,9 @@
+.env
+node_modules
+*.md
+!README.md
+
+# Logs
+logs
+*.log
+
